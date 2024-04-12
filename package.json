@@ -1,0 +1,27 @@
+{
+  "name": "db.bwa",
+  "version": "1.0.0",
+  "description": "New project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js",
+    "prod": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikhael-agung/DB-BWA.git"
+  },
+  "author": "Mikhael_agung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikhael-agung/DB-BWA/issues"
+  },
+  "homepage": "https://github.com/Mikhael-agung/DB-BWA#readme",
+  "dependencies": {
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
